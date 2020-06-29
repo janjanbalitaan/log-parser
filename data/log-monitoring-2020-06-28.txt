@@ -1,0 +1,6 @@
+HTTP Resource: /api/user
+Number of Hits: 3
+Slowest Time: 0.189
+Fastest Time: 0.011
+Average Time: 0.102
+HTTP Codes:200: 3
